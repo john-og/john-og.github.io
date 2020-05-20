@@ -1,0 +1,107 @@
+  
+{
+	"landing": {
+		"firstName": "John",
+		"lastName": " Ogundeji",
+		"phoneNumber": "+1 416-937-1395",
+		"bio": "Hey there! I am currently a third year BCS/BBA Double Degree student offered jointly by the University of Waterloo and Wilfrid Laurier University. I am a pasionate and ambitious individual with 12+ months of Software development and business managment experience. When I'm not busy with schoolwork or working on projects you can probably find me playing sports or trying out a new food spot. I'm always up for a chat so feel free message me on Linkedin or shoot me an email!",
+    "email": "john.j.ogundeji@gmail.com",
+    "linkedin": "https://linkedin.com/in/john-ogundeji",
+		"github": "https://github.com/john-og"
+	},
+	"experience": [
+		{
+				"position": "Software Developer",
+				"organization": "The Weather Network",
+				"aboutWork": "At The Weather Network I had the oppurtunity to work as a Software Developer intern on the Systems Architecture team. During my time I was able to develop a data conversion tool that converts weather data into comprehensible images. I also worked as part of a agile team developing a new consumer notification platform that notifies consumers of weather alerts.",
+				"fromDate": "Jan 2020",
+				"toDate": "April 2020"
+		},
+		{
+			"position": "Software Developer",
+			"organization": "Cannect Home Financting",
+			"aboutWork": "At Cannect I was a Software Developer intern primarily working on their internal CRM. I built out new frontend compnents and features while also sqaushing any bugs experienced by our clients. In addition I was able to increase the performance of the platform by refactoring and modularizing some of the existing codebase.",
+			"fromDate": "Jan 2019",
+			"toDate": "April 2019"
+		},
+		{
+			"position": "Camp Counsellor",
+			"organization": "STEM Camp",
+			"aboutWork": "As a camp counsellor at STEM camp I was able to share my passion for STEM with elementary-aged children. I taught and led discussion about various STEM topics while fostering a fun and safe learning environment. Hopefully I inspired the next generation of STEM students!",
+			"fromDate": "June 2017",
+			"toDate": "August 2017"
+		},
+		{
+			"position": "Student Developer",
+			"organization": "Evertz Microsystems",
+			"aboutWork": "Working as a Student Developer for Evertz Microsystems was my first taste at coding in a professional environment. I got to learn software development best practices from talented engieners and was able contribute test scripts and utility programs",
+			"fromDate": "July 2016",
+			"toDate": "August 2016"
+		}
+	],
+	"education": [{
+			"university": "University of Waterloo",
+			"degree": "Bachelor of Computer Science",
+			"fromDate": "September 2017",
+			"toDate": "Present",
+			"courses": "Object-Oriented Software Development, Foundations of Sequential Programs, Algorithim Design & Data Abstraction, Statistics, Data Structures and Data Management"
+		},
+		{
+			"university": "Wilfrid Laurier University",
+			"degree": "Bachelor of Business Administration",
+			"fromDate": "September 2017",
+			"toDate": "Present", 
+			"courses": "Finance I & II, Marketing I, Organizational Behaviour I & II, Building and Managing Products, Services & Brands"
+		}
+	],
+	"skills": [{
+			"name": "Javascript/Typescript",
+			"level": 90
+		},
+		{
+			"name": "Python",
+			"level": 90
+		},
+		{
+			"name": "HTML/CSS",
+			"level": 90
+		},
+		{
+			"name": "C/C++",
+			"level": 75
+		},
+		{
+			"name": "Vuejs",
+			"level":80
+		},
+		{
+			"name": "Reactjs",
+			"level": 75
+		},
+		{
+			"name": "Git",
+			"level": 95
+		},
+		{
+			"name": "Docker",
+			"level": 85
+
+		}
+	],
+	"projects": [{
+		"name": "Ebay Web Analyzer",
+		"github": "https://github.com/john-og/Ebay_analyzer",
+		"description": "Ebay Web ananlyzer that gathers key product listing iformation for further analysis",
+		"tools": "Python"
+
+	},
+	{
+		"name": "Engagement Campaign Twitter Bot",
+		"github": "https://github.com/john-og/TWN_hackathon_twitterbot",
+		"description": "Automated twitter bot to run engagement campaign with sentiment analysis",
+		"tools": "Python"
+
+	}
+
+	]
+}
