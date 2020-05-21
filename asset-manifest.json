@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/john-og.github.io/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/john-og.github.io/static/js/main.c271105e.chunk.js",
-    "main.js.map": "/john-og.github.io/static/js/main.c271105e.chunk.js.map",
-    "runtime-main.js": "/john-og.github.io/static/js/runtime-main.312e69d1.js",
-    "runtime-main.js.map": "/john-og.github.io/static/js/runtime-main.312e69d1.js.map",
-    "static/js/2.8b279522.chunk.js": "/john-og.github.io/static/js/2.8b279522.chunk.js",
-    "static/js/2.8b279522.chunk.js.map": "/john-og.github.io/static/js/2.8b279522.chunk.js.map",
-    "index.html": "/john-og.github.io/index.html",
-    "precache-manifest.f8a6a6f9cfca4330143e77a208e53f06.js": "/john-og.github.io/precache-manifest.f8a6a6f9cfca4330143e77a208e53f06.js",
-    "service-worker.js": "/john-og.github.io/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/john-og.github.io/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.8b279522.chunk.js.LICENSE.txt": "/john-og.github.io/static/js/2.8b279522.chunk.js.LICENSE.txt",
-    "static/media/Ebay.png": "/john-og.github.io/static/media/Ebay.81d3f615.png",
-    "static/media/Pelmorex.png": "/john-og.github.io/static/media/Pelmorex.f55571f3.png",
-    "static/media/Twitterbot.png": "/john-og.github.io/static/media/Twitterbot.0094940c.png",
-    "static/media/profile2.png": "/john-og.github.io/static/media/profile2.db81d79d.png",
-    "static/media/resume.pdf": "/john-og.github.io/static/media/resume.88e21a5d.pdf"
+    "main.css": "/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/static/js/main.033311cf.chunk.js",
+    "main.js.map": "/static/js/main.033311cf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.68fb4902.js",
+    "runtime-main.js.map": "/static/js/runtime-main.68fb4902.js.map",
+    "static/js/2.8b279522.chunk.js": "/static/js/2.8b279522.chunk.js",
+    "static/js/2.8b279522.chunk.js.map": "/static/js/2.8b279522.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.30e16d3055740f0a55d6e63bb6574db6.js": "/precache-manifest.30e16d3055740f0a55d6e63bb6574db6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.8b279522.chunk.js.LICENSE.txt": "/static/js/2.8b279522.chunk.js.LICENSE.txt",
+    "static/media/Ebay.png": "/static/media/Ebay.81d3f615.png",
+    "static/media/Pelmorex.png": "/static/media/Pelmorex.f55571f3.png",
+    "static/media/Twitterbot.png": "/static/media/Twitterbot.0094940c.png",
+    "static/media/profile2.png": "/static/media/profile2.db81d79d.png",
+    "static/media/resume.pdf": "/static/media/resume.88e21a5d.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.312e69d1.js",
+    "static/js/runtime-main.68fb4902.js",
     "static/js/2.8b279522.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.c271105e.chunk.js"
+    "static/js/main.033311cf.chunk.js"
   ]
 }
